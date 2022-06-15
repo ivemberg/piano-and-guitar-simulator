@@ -19,4 +19,4 @@ Guitar: Classic guitar
 
 ![Simulator Screen Shot - iPhone 11 - 2022-06-15 at 19 15 05](https://user-images.githubusercontent.com/66513963/173887276-8e8cd5be-6dec-43e3-ae1f-288a736987b1.png)
 
-You can freely play the piano, with the button return you return to the home page
+You can freely play the guitar, with the button return you return to the home page
