@@ -5,9 +5,9 @@ A simple application when you can choose to play a piano or a guitar
 
 ![Simulator Screen Shot - iPhone 11 - 2022-06-15 at 19 15 14](https://user-images.githubusercontent.com/66513963/173886965-56e46bd1-eb4a-47e8-a307-5bc3e2170b93.png)
 
-Piano :One octave piano
+Piano : One octave piano
 
-![Simulator Screen Shot - iPhone 11 - 2022-06-15 at 15 05 35](https://user-images.githubusercontent.com/66513963/173835958-6082d605-c689-498c-a67f-0d6db1b62bd2.png)
+![Simulator Screen Shot - iPhone 11 - 2022-06-15 at 23 14 46](https://user-images.githubusercontent.com/66513963/173931473-abf3c2f5-d39a-48c6-a7d9-03619b16c41b.png)
 
 You can freely play the piano, the letters on the keys represent the note.
 
