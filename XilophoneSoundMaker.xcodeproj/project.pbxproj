@@ -13,6 +13,9 @@
 		2E0BE92828550AB000857A13 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E0BE92728550AB000857A13 /* Assets.xcassets */; };
 		2E0BE92B28550AB000857A13 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2E0BE92928550AB000857A13 /* LaunchScreen.storyboard */; };
 		2E984F8928552A3A00642DC0 /* mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2E984F8828552A3A00642DC0 /* mp3 */; };
+		3CF83816285A3090001436CB /* ViewControllerGuitar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CF83815285A3090001436CB /* ViewControllerGuitar.swift */; };
+		3CF83818285A30F8001436CB /* ViewControllerMain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CF83817285A30F8001436CB /* ViewControllerMain.swift */; };
+		3CF8381A285A33AB001436CB /* GUITAR in Resources */ = {isa = PBXBuildFile; fileRef = 3CF83819285A33AB001436CB /* GUITAR */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		2E0BE92A28550AB000857A13 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2E0BE92C28550AB000857A13 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2E984F8828552A3A00642DC0 /* mp3 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = mp3; sourceTree = "<group>"; };
+		3CF83815285A3090001436CB /* ViewControllerGuitar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerGuitar.swift; sourceTree = "<group>"; };
+		3CF83817285A30F8001436CB /* ViewControllerMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerMain.swift; sourceTree = "<group>"; };
+		3CF83819285A33AB001436CB /* GUITAR */ = {isa = PBXFileReference; lastKnownFileType = folder; name = GUITAR; path = ../../../Downloads/GUITAR; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +46,9 @@
 		2E0BE91428550AAE00857A13 = {
 			isa = PBXGroup;
 			children = (
+				3CF83817285A30F8001436CB /* ViewControllerMain.swift */,
+				3CF83815285A3090001436CB /* ViewControllerGuitar.swift */,
+				3CF83819285A33AB001436CB /* GUITAR */,
 				2E984F8828552A3A00642DC0 /* mp3 */,
 				2E0BE91F28550AAE00857A13 /* XilophoneSoundMaker */,
 				2E0BE91E28550AAE00857A13 /* Products */,
@@ -126,6 +135,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3CF8381A285A33AB001436CB /* GUITAR in Resources */,
 				2E0BE92B28550AB000857A13 /* LaunchScreen.storyboard in Resources */,
 				2E0BE92828550AB000857A13 /* Assets.xcassets in Resources */,
 				2E0BE92628550AAE00857A13 /* Main.storyboard in Resources */,
@@ -142,6 +152,8 @@
 			files = (
 				2E0BE92328550AAE00857A13 /* ViewController.swift in Sources */,
 				2E0BE92128550AAE00857A13 /* AppDelegate.swift in Sources */,
+				3CF83816285A3090001436CB /* ViewControllerGuitar.swift in Sources */,
+				3CF83818285A30F8001436CB /* ViewControllerMain.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

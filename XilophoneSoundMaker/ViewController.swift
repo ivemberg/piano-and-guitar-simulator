@@ -19,11 +19,11 @@ class ViewController: UIViewController {
     @IBOutlet var E: UIButton!
     @IBOutlet var D: UIButton!
     @IBOutlet var Auto: UIButton!
-    @IBOutlet var C3: UIButton!
     @IBOutlet var Fs: UIButton!
     @IBOutlet var Gs: UIButton!
     @IBOutlet var As: UIButton!
     @IBOutlet var Cs: UIButton!
+    @IBOutlet var C3: UIButton!
     
     var bool = true
     
